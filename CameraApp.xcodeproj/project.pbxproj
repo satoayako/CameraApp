@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5526D35C25553031001D05DB /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5526D35B25553031001D05DB /* ImagePicker.swift */; };
+		55EAA17D25679EF00093B58B /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55EAA17C25679EF00093B58B /* Coordinator.swift */; };
 		9773F74E255520F8007CEFFD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9773F74D255520F8007CEFFD /* AppDelegate.swift */; };
 		9773F750255520F8007CEFFD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9773F74F255520F8007CEFFD /* SceneDelegate.swift */; };
 		9773F752255520F8007CEFFD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9773F751255520F8007CEFFD /* ContentView.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		5526D35B25553031001D05DB /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		55EAA17C25679EF00093B58B /* Coordinator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
 		9773F74A255520F8007CEFFD /* CameraApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CameraApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9773F74D255520F8007CEFFD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9773F74F255520F8007CEFFD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 		9773F74C255520F8007CEFFD /* CameraApp */ = {
 			isa = PBXGroup;
 			children = (
+				55EAA17C25679EF00093B58B /* Coordinator.swift */,
 				5526D35B25553031001D05DB /* ImagePicker.swift */,
 				9773F74D255520F8007CEFFD /* AppDelegate.swift */,
 				9773F74F255520F8007CEFFD /* SceneDelegate.swift */,
@@ -151,6 +154,7 @@
 			files = (
 				9773F74E255520F8007CEFFD /* AppDelegate.swift in Sources */,
 				5526D35C25553031001D05DB /* ImagePicker.swift in Sources */,
+				55EAA17D25679EF00093B58B /* Coordinator.swift in Sources */,
 				9773F750255520F8007CEFFD /* SceneDelegate.swift in Sources */,
 				9773F752255520F8007CEFFD /* ContentView.swift in Sources */,
 			);
