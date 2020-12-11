@@ -15,6 +15,7 @@
 		9773F754255520FE007CEFFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9773F753255520FE007CEFFD /* Assets.xcassets */; };
 		9773F757255520FE007CEFFD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9773F756255520FE007CEFFD /* Preview Assets.xcassets */; };
 		9773F75A255520FE007CEFFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9773F758255520FE007CEFFD /* LaunchScreen.storyboard */; };
+		97EE10BD2570D746004E724D /* UIImageExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97EE10BC2570D746004E724D /* UIImageExtensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		9773F756255520FE007CEFFD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9773F759255520FE007CEFFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9773F75B255520FE007CEFFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		97EE10BC2570D746004E724D /* UIImageExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				55EAA17C25679EF00093B58B /* Coordinator.swift */,
 				5526D35B25553031001D05DB /* ImagePicker.swift */,
+				97EE10BC2570D746004E724D /* UIImageExtensions.swift */,
 				9773F74D255520F8007CEFFD /* AppDelegate.swift */,
 				9773F74F255520F8007CEFFD /* SceneDelegate.swift */,
 				9773F751255520F8007CEFFD /* ContentView.swift */,
@@ -155,6 +158,7 @@
 				9773F74E255520F8007CEFFD /* AppDelegate.swift in Sources */,
 				5526D35C25553031001D05DB /* ImagePicker.swift in Sources */,
 				55EAA17D25679EF00093B58B /* Coordinator.swift in Sources */,
+				97EE10BD2570D746004E724D /* UIImageExtensions.swift in Sources */,
 				9773F750255520F8007CEFFD /* SceneDelegate.swift in Sources */,
 				9773F752255520F8007CEFFD /* ContentView.swift in Sources */,
 			);
